@@ -3,4 +3,6 @@ canvas {
   top: 0;
   left: 0;
 }
+
+
 /* Canvas is a function and within that we are fixing it to the top left corner of the canvas */
